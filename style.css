@@ -5,6 +5,14 @@ p
 {
     font-size: 1.2em;
 }
+h1 {
+    font-family: 'EB Garamond', serif;
+}
+.responsive {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
 .container-fluid {
     width: 100%;
     padding-right: 15px;
