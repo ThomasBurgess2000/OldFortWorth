@@ -8,10 +8,6 @@ p
     font-size: 1.2em;
 }
 
-h1 {
-    font-family: 'EB Garamond', serif;
-}
-
 .responsive {
     width: 100%;
     max-width: 500px;
