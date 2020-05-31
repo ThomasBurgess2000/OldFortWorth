@@ -49,5 +49,5 @@ div.desc {
 
 div.gallery img {
     height: 300px;
-    width: auto;
+    max-width: 100%;
 }
