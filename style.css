@@ -48,22 +48,14 @@ div.desc {
 }
 
 div.gallery img {
-    /*max-height: 150px;
-    overflow: hidden;*/
-    clip-path:square;
     max-width: 180px;
 }
 
 /*Profile Picture*/
-.image-cropper {
+.profile {
     width: 100px;
     height: 100px;
-    position: relative;
+    float:left;
     overflow: hidden;
     border-radius: 50%;
-}
-.profile-pic {
-  display: inline;
-  margin: 0 auto;
-  margin-left: -25%;
 }
