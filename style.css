@@ -48,7 +48,8 @@ div.desc {
 }
 
 div.gallery img {
-    max-height: 150px;
+    /*max-height: 150px;
     width: 180px;
-    overflow: hidden;
+    overflow: hidden;*/
+    clip-path:square;
 }
