@@ -26,6 +26,22 @@ p
     clear:both;
 }
 
+a:link {
+    text-decoration:none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:vactive {
+    text-decoration: underline;
+}
+
 /*Image Gallery*/
 div.gallery {
     margin: 5px;
