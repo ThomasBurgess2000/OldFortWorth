@@ -50,5 +50,6 @@ div.desc {
 div.gallery img {
     height: 150px;
     width: 200px;
-    overflow: hidden; 
+    overflow: hidden;
+    margin: 1px;
 }
