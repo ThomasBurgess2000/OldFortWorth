@@ -54,4 +54,5 @@ div.gallery img {
     float:left;
     overflow: hidden;
     border-radius: 50%;
+    margin-right: 10px;
 }
