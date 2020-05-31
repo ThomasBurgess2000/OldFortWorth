@@ -37,6 +37,6 @@ div.gallery {
     text-align: center;
   }
 
-  div {
+  .newline {
       overflow:hidden;
   }
